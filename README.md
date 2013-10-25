@@ -1,4 +1,4 @@
 reports
 =======
 
-Simple data reporting and visuzalization
+Simple data reporting and visualization
